@@ -1,0 +1,55 @@
+[
+    {
+        "key": "alt+c",
+        "command": "extension.macColorPicker"
+    },
+    {
+        "key": "cmd+l cmd+o",
+        "command": "-extension.liveServer.goOnline",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "cmd+l cmd+c",
+        "command": "-extension.liveServer.goOffline",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "cmd+k cmd+z",
+        "command": "workbench.action.toggleZenMode"
+    },
+    {
+        "key": "cmd+k z",
+        "command": "-workbench.action.toggleZenMode"
+    },
+    {
+        "key": "cmd+k z",
+        "command": "workbench.action.toggleCenteredLayout"
+    },
+    {
+        "key": "shift+cmd+x",
+        "command": "-workbench.view.extensions",
+        "when": "viewContainer.workbench.view.extensions.enabled"
+    },
+    {
+        "key": "ctrl+alt+u",
+        "command": "-sftp.upload.changedFiles",
+        "when": "sftp.enabled"
+    },
+    {
+        "key": "ctrl+u",
+        "command": "sftp.upload.activeFile"
+    },
+    {
+        "key": "f5",
+        "command": "notebook.execute"
+    },
+    {
+        "key": "alt+cmd+j",
+        "command": "-liveshare.join",
+        "when": "liveshare:state != 'Joined' && liveshare:state != 'Shared'"
+    },
+    {
+        "key": "alt+w",
+        "command": "editor.action.toggleRenderWhitespace"
+    }
+]
