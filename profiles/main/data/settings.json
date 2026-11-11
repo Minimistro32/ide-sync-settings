@@ -1,0 +1,168 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "debug.onTaskErrors": "showErrors",
+    "security.workspace.trust.untrustedFiles": "open",
+    "zenMode.hideLineNumbers": false,
+    "editor.bracketPairColorization.enabled": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.linkedEditing": true,
+    "git.autofetch": true,
+    "settingsSync.ignoredExtensions": [
+        "GitHub.vscode-pull-request-github",
+        "ms-vsliveshare.vsliveshare"
+    ],
+    "explorer.confirmDelete": false,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "razor": "html"
+    },
+    "editor.guides.bracketPairs": "active",
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "better-comments.tags": [
+        {
+            "tag": "#",
+            "color": "#fb24ee",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "sidebar-markdown-notes.leftMargin": true,
+    "explorer.confirmDragAndDrop": false,
+    "settingsSync.ignoredSettings": [
+        "window.autoDetectColorScheme"
+    ],
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/altair-data-**.json": true,
+        "**/geckodriver.log": true
+    },
+    "workbench.startupEditor": "none",
+    "[sql]": {
+        "editor.defaultFormatter": "inferrinizzard.prettier-sql-vscode"
+    },
+    "markdown.extension.math.enabled": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "projectManager.sortList": "Name",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+    
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "files.associations": {
+        "*.module": "php"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.activityBar.location": "top",
+    "cSpell.useGitignore": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "VsCodeTaskButtons.showCounter": false,
+    "VsCodeTaskButtons.tasks": [
+        {
+            "label": "$(play-circle) Execute SQL",
+            "task": "execute",
+            "tooltip": "Execute the active SQL file."
+        }
+    ],
+    "Prettier-SQL.indentStyle": "tabularRight",
+    "Prettier-SQL.keywordCase": "upper",
+    "Prettier-SQL.SQLFlavourOverride": "plsql",
+    "Prettier-SQL.insertSpacesOverride": false,
+    "Prettier-SQL.ignoreTabSettings": true,
+    "scm.showChangesSummary": false,
+    "[verilog]": {
+        "editor.defaultFormatter": "mshr-h.veriloghdl"
+    },
+    "interactiveWindow.executeWithShiftEnter": true,
+    "markdown-preview-enhanced.enablePreviewZenMode": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "github.copilot.enable": {
+        "*": false
+    },
+    "editor.renderWhitespace": "all",
+    "window.autoDetectColorScheme": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "svelte.enable-ts-plugin": true,
+    "redhat.telemetry.enabled": false,
+    "atlascode.jira.enabled": false,
+    "atlascode.showWelcomeOnInstall": false,
+    "atlascode.bitbucket.explorer.nestFilesEnabled": false,
+    "github-authentication.preferDeviceCodeFlow": true,
+    "github-authentication.useElectronFetch": false,
+    "terminal.integrated.initialHint": false,
+    "window.commandCenter": false,
+    "chat.agent.networkFilter": true,
+    "workbench.browser.openLocalhostLinks": false,
+    "workbench.browser.searchEngine": "none",
+    "chat.agent.sandbox.network.allowedDomains": [
+        "localhost",
+        "127.0.0.1",
+        "*.github.com",
+        "*.freeze"
+    ]
+}
