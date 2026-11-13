@@ -6,8 +6,6 @@ enabled:
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
   - id: assisrMatheus.sidebar-markdown-notes
     uuid: f37ebf56-464c-4ee5-aeb5-168b1cc40008
-  - id: GitHub.vscode-pull-request-github
-    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
   - id: humao.rest-client
     uuid: dda49fd5-1f3b-4d25-bf61-4fc41905ede5
   - id: jeanp413.open-remote-ssh
